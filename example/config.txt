@@ -1,0 +1,2 @@
+Prefix plugins/DoubleTest/example
+Plugin DoubleTest inputfile numbers.txt outputfile output.txt
